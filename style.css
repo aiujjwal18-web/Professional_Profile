@@ -522,9 +522,11 @@ min-height:80px;
 
     width:100%;
 
-    aspect-ratio:1;
+    height:520px;
 
     object-fit:cover;
+
+    object-position:center top;
 
 }
 
